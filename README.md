@@ -54,24 +54,18 @@ Transformando dados em decisões e ideias em soluções.
 
 ## 📈 GitHub
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saahnaka&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saahnaka&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saahnaka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saahnaka&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
 ## 🔥 Sequência de contribuições
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saahnaka&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saahnaka&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📊 Activity Graph
