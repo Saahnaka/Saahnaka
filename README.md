@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=8A5CFF&center=true&vCenter=true&width=900&lines=Olá!+Eu+sou+Sara+Nakagawa;Desenvolvedora;Analista+de+Dados;Power+BI+%7C+Python+%7C+SQL;Sempre+aprendendo+novas+tecnologias."/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=8A5CFF&center=true&vCenter=true&width=900&lines=Ol%C3%A1!+Eu+sou+Sara+Nakagawa;Desenvolvedora;Analista+de+Dados;Power+BI+%7C+Python+%7C+SQL;Sempre+aprendendo+novas+tecnologias." />
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/55bd9e93-0f19-4ba7-b785-512118937136" width="100%" alt="Capa do GitHub"/>
