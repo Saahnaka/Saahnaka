@@ -52,21 +52,131 @@ Transformando dados em decisões e ideias em soluções.
 
 ---
 
-## 📈 GitHub
+# 🚀 Projetos em Destaque
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saahnaka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saahnaka&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+<table>
 
----
+<tr>
+<td width="50%">
 
-## 🔥 Sequência de contribuições
+### 🎬 Catalog Movies API
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saahnaka&theme=tokyonight&hide_border=true" />
-</p>
----
+API REST para gerenciamento de filmes.
+
+**Tecnologias**
+- Java
+- Spring Boot
+- MySQL
+
+🔗 https://github.com/Saahnaka/catalog-movies-api
+
+</td>
+
+<td width="50%">
+
+### 🎥 Catalog Movies Web
+
+Aplicação Web integrada à API de filmes.
+
+**Tecnologias**
+- HTML
+- CSS
+- JavaScript
+
+🔗 https://github.com/Saahnaka/catalog-movies-web
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Portfólio
+
+Meu site pessoal para apresentar projetos e minha trajetória na área de tecnologia.
+
+**Tecnologias**
+- HTML
+- CSS
+- JavaScript
+
+🔗 https://github.com/Saahnaka/portfolio
+
+</td>
+
+<td width="50%">
+
+### 🚀 Interface Login Espacial
+
+Tela de login com design moderno e animações inspiradas no espaço.
+
+**Tecnologias**
+- HTML
+- CSS
+- JavaScript
+
+🔗 https://github.com/Saahnaka/Interface-Login-Espacial
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Dashboard de Performance Comercial
+
+Dashboard desenvolvido no Power BI utilizando a base pública da Olist para análise de vendas.
+
+**Tecnologias**
+- Power BI
+- DAX
+
+🔗 https://github.com/Saahnaka/DashboardsPerformanceComercial
+
+</td>
+
+<td width="50%">
+
+### 📦 Dashboard de Controle de Estoque
+
+Dashboard focado no acompanhamento e gestão de estoque.
+
+**Tecnologias**
+- Power BI
+- DAX
+
+🔗 https://github.com/Saahnaka/Dashboards-Controle-de-Estoque
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📈 Dashboard de Análise de Resultados
+
+Dashboard para análise de indicadores e resultados.
+
+**Tecnologias**
+- Power BI
+- DAX
+
+🔗 https://github.com/Saahnaka/Dashboards-Analise-de-Resultados
+
+</td>
+
+<td width="50%">
+
+### 👩‍💻 Em desenvolvimento...
+
+Mais projetos serão adicionados em breve.
+
+🚀
+
+</td>
+</tr>
+
+</table>
 
 ## 📊 Activity Graph
 
