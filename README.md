@@ -54,139 +54,156 @@ Transformando dados em decisões e ideias em soluções.
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
 
-<tr>
-<td width="50%">
+      <img src="https://raw.githubusercontent.com/Saahnaka/Saahnaka/main/FotoApiMovies.png" width="100%" alt="Catalog Movies API"/>
 
-### 🎬 Catalog Movies API
+      <h3>🎬 Catalog Movies API</h3>
 
-API REST para gerenciamento de filmes.
+      <p>API REST para gerenciamento de filmes.</p>
 
-**Tecnologias**
-- Java
-- Spring Boot
-- MySQL
+      <b>Tecnologias</b>
 
-🔗 https://github.com/Saahnaka/catalog-movies-api
+      <ul>
+        <li>Java</li>
+        <li>Spring Boot</li>
+        <li>PostgreSQL</li>
+      </ul>
 
-</td>
+      🔗 <a href="https://github.com/Saahnaka/catalog-movies-api">GitHub</a>
 
-<td width="50%">
+    </td>
 
-### 🎥 Catalog Movies Web
+    <td width="50%" valign="top">
 
-Aplicação Web integrada à API de filmes.
+      <img src="https://raw.githubusercontent.com/Saahnaka/Saahnaka/main/FotoWebMovies.png" width="100%" alt="Catalog Movies Web"/>
 
-**Tecnologias**
-- HTML
-- CSS
-- JavaScript
+      <h3>🎥 Catalog Movies Web</h3>
 
-🔗 https://github.com/Saahnaka/catalog-movies-web
+      <p>Aplicação Web integrada à API de filmes.</p>
 
-</td>
-</tr>
+      <b>Tecnologias</b>
 
-<tr>
-<td width="50%">
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+      </ul>
 
-### 🌐 Portfólio
+      🔗 <a href="https://github.com/Saahnaka/catalog-movies-web">GitHub</a>
 
-Meu site pessoal para apresentar projetos e minha trajetória na área de tecnologia.
+    </td>
+  </tr>
 
-**Tecnologias**
-- HTML
-- CSS
-- JavaScript
+  <tr>
+    <td width="50%" valign="top">
 
-🔗 https://github.com/Saahnaka/portfolio
+      <img src="https://raw.githubusercontent.com/Saahnaka/Saahnaka/main/FotoPortfolio.png" width="100%" alt="Portfólio"/>
 
-</td>
+      <h3>🌐 Portfólio</h3>
 
-<td width="50%">
+      <p>Meu site pessoal para apresentar projetos e minha trajetória na área de tecnologia.</p>
 
-### 🚀 Interface Login Espacial
+      <b>Tecnologias</b>
 
-Tela de login com design moderno e animações inspiradas no espaço.
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+      </ul>
 
-**Tecnologias**
-- HTML
-- CSS
-- JavaScript
+      🔗 <a href="https://github.com/Saahnaka/portfolio">GitHub</a>
 
-🔗 https://github.com/Saahnaka/Interface-Login-Espacial
+    </td>
 
-</td>
-</tr>
+    <td width="50%" valign="top">
 
-<tr>
-<td width="50%">
+      <img src="https://raw.githubusercontent.com/Saahnaka/Saahnaka/main/FotoLogin.png" width="100%" alt="Interface Login Espacial"/>
 
-### 📊 Dashboard de Performance Comercial
+      <h3>🚀 Interface Login Espacial</h3>
 
-Dashboard desenvolvido no Power BI utilizando a base pública da Olist para análise de vendas.
+      <p>Tela de login com design moderno e animações inspiradas no espaço.</p>
 
-**Tecnologias**
-- Power BI
-- DAX
+      <b>Tecnologias</b>
 
-🔗 https://github.com/Saahnaka/DashboardsPerformanceComercial
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+      </ul>
 
-</td>
+      🔗 <a href="https://github.com/Saahnaka/Interface-Login-Espacial">GitHub</a>
 
-<td width="50%">
+    </td>
+  </tr>
 
-### 📦 Dashboard de Controle de Estoque
+  <tr>
+    <td width="50%" valign="top">
 
-Dashboard focado no acompanhamento e gestão de estoque.
+      <img src="https://raw.githubusercontent.com/Saahnaka/Saahnaka/main/FotoDashboardsPerformace.png" width="100%" alt="Dashboard Performance Comercial"/>
 
-**Tecnologias**
-- Power BI
-- DAX
+      <h3>📊 Dashboard Performance Comercial</h3>
 
-🔗 https://github.com/Saahnaka/Dashboards-Controle-de-Estoque
+      <p>Dashboard para análise e acompanhamento da performance comercial.</p>
 
-</td>
-</tr>
+      <b>Tecnologias</b>
 
-<tr>
-<td width="50%">
+      <ul>
+        <li>Power BI</li>
+        <li>Excel</li>
+      </ul>
 
-### 📈 Dashboard de Análise de Resultados
+      🔗 <a href="https://github.com/Saahnaka/DashboardsPerformanceComercial">GitHub</a>
 
-Dashboard para análise de indicadores e resultados.
+    </td>
 
-**Tecnologias**
-- Power BI
-- DAX
+    <td width="50%" valign="top">
 
-🔗 https://github.com/Saahnaka/Dashboards-Analise-de-Resultados
+      <img src="https://raw.githubusercontent.com/Saahnaka/Saahnaka/main/FotoDashboardResultados.png" width="100%" alt="Dashboard Análise de Resultados"/>
 
-</td>
+      <h3>📈 Dashboard Análise de Resultados</h3>
 
-<td width="50%">
+      <p>Dashboard desenvolvido para análise de resultados e indicadores.</p>
 
-### 👩‍💻 Em desenvolvimento...
+      <b>Tecnologias</b>
 
-Mais projetos serão adicionados em breve.
+      <ul>
+        <li>Power BI</li>
+        <li>Excel</li>
+      </ul>
 
-🚀
+      🔗 <a href="https://github.com/Saahnaka/Dashboards-Analise-de-Resultados">GitHub</a>
 
-</td>
-</tr>
+    </td>
+  </tr>
 
+  <tr>
+    <td width="50%" valign="top">
+
+      <img src="https://raw.githubusercontent.com/Saahnaka/Saahnaka/main/FotoDashboardEstoque.png" width="100%" alt="Dashboard Controle de Estoque"/>
+
+      <h3>📦 Dashboard Controle de Estoque</h3>
+
+      <p>Dashboard para acompanhamento e análise de estoque.</p>
+
+      <b>Tecnologias</b>
+
+      <ul>
+        <li>Power BI</li>
+        <li>Excel</li>
+      </ul>
+
+      🔗 <a href="https://github.com/Saahnaka/Dashboards-Controle-de-Estoque">GitHub</a>
+
+    </td>
+
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
-
-## 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saahnaka&theme=tokyo-night"/>
-
-</div>
 
 ---
 
