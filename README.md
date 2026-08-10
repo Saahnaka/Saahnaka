@@ -224,32 +224,12 @@ sempre evoluindo e criando novas soluções.
 
 ---
 
-## 📌 Projetos em destaque
-
-📊 Dashboard Comercial - Power BI
-
-💰 Controle Financeiro em Python + MySQL
-
-👥 CRUD de Clientes - Oracle Visual Builder
-
-📱 Organizador Pessoal
-
-🐍 Estudos de Python
-
-🗄 Estudos SQL
-
----
-
 ## 🎮 Interesses
 
-🎮 Games
-
-🎵 Música
-
-📺 Séries
-
-☕ Café
-
+🎮 Games  
+🎵 Música  
+📺 Séries  
+☕ Café  
 📚 Aprender coisas novas
 
 ---
