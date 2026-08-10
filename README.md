@@ -210,6 +210,25 @@ Transformando dados em decisões e ideias em soluções.
 </td>
 
 </tr>
+
+<td width="50%" valign="top" align="center">
+
+<br><br>
+
+<h2>✨ Em breve...</h2>
+
+<p>
+Novos projetos estão a caminho!
+</p>
+
+<p>
+🚀 Sempre aprendendo,<br>
+sempre evoluindo e criando novas soluções.
+</p>
+
+<br>
+
+</td>
 </table>
 
 ---
