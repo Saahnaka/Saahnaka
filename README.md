@@ -1,6 +1,20 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=8A5CFF&center=true&vCenter=true&width=900&lines=Ol%C3%A1!+Eu+sou+Sara+Nakagawa;Desenvolvedora;Analista+de+Dados;Power+BI+%7C+Python+%7C+SQL;Sempre+aprendendo+novas+tecnologias." />
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/saranakagawa/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/saahnaka_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:saranakagawa16@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/55bd9e93-0f19-4ba7-b785-512118937136" width="100%" alt="Capa do GitHub"/>
@@ -14,6 +28,10 @@ Transformando dados em decisões e ideias em soluções.
 
 ![Followers](https://img.shields.io/github/followers/Saahnaka?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Saahnaka?style=for-the-badge)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=8A5CFF&center=true&vCenter=true&width=900&lines=Ol%C3%A1!+Eu+sou+Sara+Nakagawa;Desenvolvedora;Analista+de+Dados;Power+BI+%7C+Python+%7C+SQL;Sempre+aprendendo+novas+tecnologias." />
+</p>
 
 ---
 
@@ -34,7 +52,7 @@ Transformando dados em decisões e ideias em soluções.
 
 ---
 
-## 🐍 My Contributions
+## 🐍 Minhas estatísticas
 
 <p align="center">
   <picture>
@@ -248,26 +266,6 @@ sempre evoluindo e criando novas soluções.
 ☕ Café
 
 📚 Aprender coisas novas
-
----
-
-## 🌎 Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/saranakagawa/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/saahnaka_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:saranakagawa16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
