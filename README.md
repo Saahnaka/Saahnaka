@@ -12,10 +12,8 @@
 
 Transformando dados em decisões e ideias em soluções.
 
-![](https://img.shields.io/github/followers/Saahnaka?style=for-the-badge)
-![](https://img.shields.io/github/stars/Saahnaka?style=for-the-badge)
-
-</div>
+![Followers](https://img.shields.io/github/followers/Saahnaka?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Saahnaka?style=for-the-badge)
 
 ---
 
@@ -42,15 +40,13 @@ Transformando dados em decisões e ideias em soluções.
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,java,oracle" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
 
 </div>
+
+---
 
 ## 🚀 Projetos em Destaque
 
@@ -93,7 +89,7 @@ Transformando dados em decisões e ideias em soluções.
 <li>JavaScript</li>
 </ul>
 
-🔗 <a href="https://github.com/Saahnaka/Saahnaka/blob/main/FotoWebMovies.png?raw=true">GitHub</a>
+🔗 <a href="https://github.com/Saahnaka/catalog-movies-web">GitHub</a>
 
 </td>
 
@@ -203,6 +199,8 @@ Transformando dados em decisões e ideias em soluções.
 
 🔗 <a href="https://github.com/Saahnaka/Dashboards-Controle-de-Estoque">GitHub</a>
 
+</td>
+
 <td width="50%" valign="top" align="center">
 
 <br><br>
@@ -222,14 +220,21 @@ sempre evoluindo e criando novas soluções.
 
 </td>
 
+</tr>
+</table>
+
 ---
 
 ## 🎮 Interesses
 
-🎮 Games  
-🎵 Música  
-📺 Séries  
-☕ Café  
+🎮 Games
+
+🎵 Música
+
+📺 Séries
+
+☕ Café
+
 📚 Aprender coisas novas
 
 ---
