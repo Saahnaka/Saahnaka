@@ -34,6 +34,18 @@ Transformando dados em decisões e ideias em soluções.
 
 ---
 
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saahnaka/Saahnaka/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saahnaka/Saahnaka/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Saahnaka/Saahnaka/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
 ## 🛠 Tecnologias
 
 <div align="center">
