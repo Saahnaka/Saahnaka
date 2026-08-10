@@ -203,14 +203,6 @@ Transformando dados em decisões e ideias em soluções.
 
 🔗 <a href="https://github.com/Saahnaka/Dashboards-Controle-de-Estoque">GitHub</a>
 
-</td>
-
-<td width="50%" valign="top">
-
-</td>
-
-</tr>
-
 <td width="50%" valign="top" align="center">
 
 <br><br>
@@ -229,7 +221,6 @@ sempre evoluindo e criando novas soluções.
 <br>
 
 </td>
-</table>
 
 ---
 
