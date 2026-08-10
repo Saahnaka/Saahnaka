@@ -4,8 +4,8 @@
     <img src="https://img.shields.io/badge/Gmail-saranakagawa16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/Saahnaka">
-    <img src="https://img.shields.io/badge/GitHub-Saahnaka-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/saranakagawa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sara%20Nakagawa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
  <a href="https://github.com/Saahnaka">
