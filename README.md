@@ -93,7 +93,7 @@ Transformando dados em decisões e ideias em soluções.
 <li>JavaScript</li>
 </ul>
 
-🔗 <a href="https://github.com/Saahnaka/catalog-movies-web">GitHub</a>
+🔗 <a href="https://github.com/Saahnaka/Saahnaka/blob/main/FotoWebMovies.png?raw=true">GitHub</a>
 
 </td>
 
