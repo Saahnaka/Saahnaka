@@ -1,15 +1,28 @@
-<h1 align="center">Olá! Eu sou Sara Nakagawa 👋</h1>
-
-<h3 align="center">
-  💻 Desenvolvedora | 📊 Analista de Dados em formação
-</h3>
-
 <p align="center">
-  🎓 Estudante de Sistemas de Informação
+
+  <a href="mailto:saranakagawa16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-saranakagawa16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Saahnaka">
+    <img src="https://img.shields.io/badge/GitHub-Saahnaka-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+ <a href="https://github.com/Saahnaka">
+    <img src="https://img.shields.io/badge/GitHub-Saahnaka-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
 </p>
 
 <p align="center">
-  Transformando dados em decisões e ideias em soluções.
+  <img src="https://github.com/Saahnaka/Saahnaka/blob/main/capa" width="100%" alt="Banner Sara Nakagawa"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Ol%C3%A1!+Eu+sou+Sara+Nakagawa+%F0%9F%91%8B;Desenvolvedora+%7C+Analista+de+Dados+em+forma%C3%A7%C3%A3o;%F0%9F%8E%93+Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Transformando+dados+em+decis%C3%B5es+e+ideias+em+solu%C3%A7%C3%B5es"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -183,21 +196,6 @@ Dashboard criado para acompanhamento e análise de estoque, permitindo visualiza
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Saahnaka&show_icons=true&theme=github_dark&hide_border=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saahnaka&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
-
----
-
 # 🐍 Minhas Contribuições
 
 <p align="center">
@@ -215,22 +213,6 @@ Dashboard criado para acompanhamento e análise de estoque, permitindo visualiza
       src="https://raw.githubusercontent.com/Saahnaka/Saahnaka/output/github-snake.svg"
     >
   </picture>
-</p>
-
----
-
-# 🌎 Contato
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/saranakagawa">
-    <img src="https://img.shields.io/badge/LinkedIn-Sara%20Nakagawa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Saahnaka">
-    <img src="https://img.shields.io/badge/GitHub-Saahnaka-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
 </p>
 
 ---
